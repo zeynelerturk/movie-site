@@ -1,3 +1,4 @@
 # movie-site
 
-![ezgif com-resize](https://github.com/zeynelerturk/movie-site/assets/147662920/5dc0b2ef-412a-4ce3-8fa3-f121e9bf2ac9)
+
+![ezgif com-video-to-gif](https://github.com/zeynelerturk/movie-site/assets/147662920/7df1dcb4-0d58-4a22-92ce-bb9edf257bf2)
